@@ -25,4 +25,4 @@
 </a>
 </div>
 
-<img align="center" width="300" height="168" margin= "0 auto" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="center" width="300" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
