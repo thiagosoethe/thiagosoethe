@@ -19,7 +19,7 @@
 ## 📈 Estatística do GitHub:
 
 <div align="center" border-radius="20px">
-<a href="https://github.com/emanueloliveirasenai">
+<a href="https://github.com/thiagosoethe)">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emanueloliveirasenai&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanueloliveirasenai&layout=compact&theme=dark">
 </a>
