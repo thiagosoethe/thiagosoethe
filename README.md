@@ -39,7 +39,7 @@ Aprendiz Industrial → Controlador de Expedição I. Controle de expedição, o
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS e Vue.js">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,docker,aws&theme=dark" alt="PHP, Node.js, Express, MySQL, Docker e AWS">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,docker&theme=dark" alt="PHP, Node.js, Express, MySQL e Docker">
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code">
 </div>
@@ -54,19 +54,19 @@ Essas tecnologias fazem parte da minha formação e dos meus projetos acadêmico
 
 Sistema web acadêmico para gestão de clínicas de fisioterapia, com agenda, prontuário, financeiro e relatórios. O repositório público apresenta as telas, a arquitetura e a documentação do projeto; o código-fonte é privado.
 
-`PHP 8.2` `MySQL / MariaDB` `Bootstrap 5.3` `JavaScript`
+`PHP 8.2` `MySQL` `Bootstrap 5.3` `JavaScript`
 
 ### [Estoque Fácil](https://github.com/UnisenaiJoinville/ADS-2025-02-Desenvolvimento-Web/tree/main/PROJETOS/Thiago-Soethe-Paschoal/projeto-docker-nodejs)
 
-Sistema de gestão de estoque com API REST, autenticação com JWT, controle de produtos, categorias e movimentações, dashboard com gráficos e relatórios. Configurado para rodar em containers com Docker Compose, incluindo ambiente de produção.
+Sistema de gestão de estoque com API REST, login de usuários, controle de produtos, categorias e movimentações, dashboard com gráficos e relatórios. Configurado para rodar em containers com Docker Compose, incluindo ambiente de produção.
 
-`Node.js` `Express` `MySQL` `Docker` `Tailwind CSS` `JWT`
+`Node.js` `Express` `MySQL` `Docker` `Tailwind CSS`
 
 ### Monitoramento de Fundição · Indústria 4.0 *(em andamento)*
 
-Protótipo de monitoramento industrial: sensores simulados publicam dados via MQTT (broker EMQX), o Node-RED processa as mensagens em uma instância AWS EC2 e um dashboard exibe os indicadores em tempo real.
+Protótipo de monitoramento industrial: sensores simulados publicam dados via MQTT (broker EMQX), o Node-RED processa as mensagens em um servidor na nuvem e um dashboard exibe os indicadores em tempo real.
 
-`MQTT` `EMQX` `Node-RED` `AWS EC2`
+`MQTT` `EMQX` `Node-RED`
 
 ### [NexaShop · Consultas SQL](https://github.com/daivishow/tarefa-banco-daivison-thiago)
 
