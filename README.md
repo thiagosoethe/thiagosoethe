@@ -29,12 +29,19 @@ Desenvolvo meus conhecimentos por meio de estudos e projetos acadêmicos, com in
 | Análise e Desenvolvimento de Sistemas | UniSENAI | Em andamento — conclusão prevista para 2027 |
 | Técnico em Química | SENAI | Concluído |
 
+## Experiência
+
+**Tupy S.A.** · Joinville/SC · mar. 2022 – jul. 2026<br>
+Aprendiz Industrial → Controlador de Expedição I. Controle de expedição, organização de processos e trabalho em equipe em ambiente industrial.
+
 ## Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,nodejs,mysql&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, Node.js e MySQL">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS e Vue.js">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode&theme=dark" alt="Git, GitHub, Docker e Visual Studio Code">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,docker,aws&theme=dark" alt="PHP, Node.js, Express, MySQL, Docker e AWS">
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code">
 </div>
 
 <br>
@@ -49,15 +56,33 @@ Sistema web acadêmico para gestão de clínicas de fisioterapia, com agenda, pr
 
 `PHP 8.2` `MySQL / MariaDB` `Bootstrap 5.3` `JavaScript`
 
+### [Estoque Fácil](https://github.com/UnisenaiJoinville/ADS-2025-02-Desenvolvimento-Web/tree/main/PROJETOS/Thiago-Soethe-Paschoal/projeto-docker-nodejs)
+
+Sistema de gestão de estoque com API REST, autenticação com JWT, controle de produtos, categorias e movimentações, dashboard com gráficos e relatórios. Configurado para rodar em containers com Docker Compose, incluindo ambiente de produção.
+
+`Node.js` `Express` `MySQL` `Docker` `Tailwind CSS` `JWT`
+
+### Monitoramento de Fundição · Indústria 4.0 *(em andamento)*
+
+Protótipo de monitoramento industrial: sensores simulados publicam dados via MQTT (broker EMQX), o Node-RED processa as mensagens em uma instância AWS EC2 e um dashboard exibe os indicadores em tempo real.
+
+`MQTT` `EMQX` `Node-RED` `AWS EC2`
+
+### [NexaShop · Consultas SQL](https://github.com/daivishow/tarefa-banco-daivison-thiago)
+
+Análise de indicadores de negócio de um e-commerce fictício com consultas SQL: agregações, agrupamentos, filtros, `CASE` e cálculos com datas. Projeto em dupla.
+
+`MySQL` `SQL`
+
 ### [Todas as Trilhas](https://github.com/thiagosoethe/todas_trilhas)
 
-Coleção de atividades práticas desenvolvidas durante o curso de ADS. Reúne exercícios de front-end e uma trilha progressiva de Node.js e Express, incluindo rotas, APIs REST, operações CRUD e listas de tarefas.
+Coleção de atividades práticas desenvolvidas durante o curso de ADS. Reúne exercícios de front-end, uma trilha progressiva de Node.js e Express (rotas, APIs REST, CRUD) e atividades de Vue.js.
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express`
+`HTML` `CSS` `JavaScript` `Node.js` `Express` `Vue.js`
 
 ### [Portfólio Web](https://github.com/thiagosoethe/thiagosoethe.github.io)
 
-Portfólio pessoal responsivo criado para praticar estruturação de páginas, estilização e interações no navegador. O projeto reúne apresentação, tecnologias, projetos e contatos em uma página publicada com GitHub Pages.
+Portfólio pessoal responsivo com fundo animado em canvas, efeito de digitação, linha do tempo, filtro de projetos e animações ao rolar a página, publicado com GitHub Pages.
 
 `HTML` `CSS` `JavaScript` · [Acessar o site](https://thiagosoethe.github.io/)
 
