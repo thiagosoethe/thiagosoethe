@@ -39,7 +39,7 @@ Aprendiz Industrial → Controlador de Expedição I. Controle de expedição, o
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS e Vue.js">
   <br><br>
-  <img src="https://skillicons.dev/icons?i=php,nodejs,express,mysql,docker&theme=dark" alt="PHP, Node.js, Express, MySQL e Docker">
+  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,docker&theme=dark" alt="PHP, Node.js, MySQL e Docker">
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub e Visual Studio Code">
 </div>
@@ -60,7 +60,7 @@ Sistema web acadêmico para gestão de clínicas de fisioterapia, com agenda, pr
 
 Sistema de gestão de estoque com API REST, login de usuários, controle de produtos, categorias e movimentações, dashboard com gráficos e relatórios. Configurado para rodar em containers com Docker Compose, incluindo ambiente de produção.
 
-`Node.js` `Express` `MySQL` `Docker` `Tailwind CSS`
+`Node.js` `MySQL` `Docker` `Tailwind CSS`
 
 ### Monitoramento de Fundição · Indústria 4.0 *(em andamento)*
 
@@ -76,9 +76,9 @@ Análise de indicadores de negócio de um e-commerce fictício com consultas SQL
 
 ### [Todas as Trilhas](https://github.com/thiagosoethe/todas_trilhas)
 
-Coleção de atividades práticas desenvolvidas durante o curso de ADS. Reúne exercícios de front-end, uma trilha progressiva de Node.js e Express (rotas, APIs REST, CRUD) e atividades de Vue.js.
+Coleção de atividades práticas desenvolvidas durante o curso de ADS. Reúne exercícios de front-end, uma trilha progressiva de Node.js (rotas, APIs REST, CRUD) e atividades de Vue.js.
 
-`HTML` `CSS` `JavaScript` `Node.js` `Express` `Vue.js`
+`HTML` `CSS` `JavaScript` `Node.js` `Vue.js`
 
 ### [Portfólio Web](https://github.com/thiagosoethe/thiagosoethe.github.io)
 
