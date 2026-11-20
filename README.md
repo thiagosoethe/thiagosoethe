@@ -37,7 +37,7 @@ Aprendiz Industrial → Controlador de Expedição I. Controle de expedição, o
 ## Tecnologias e ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,vue&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap, Tailwind CSS e Vue.js">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue&theme=dark" alt="HTML, CSS, JavaScript, Bootstrap e Vue.js">
   <br><br>
   <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,docker&theme=dark" alt="PHP, Node.js, MySQL e Docker">
   <br><br>
@@ -60,7 +60,7 @@ Sistema web acadêmico para gestão de clínicas de fisioterapia, com agenda, pr
 
 Sistema de gestão de estoque com API REST, login de usuários, controle de produtos, categorias e movimentações, dashboard com gráficos e relatórios. Configurado para rodar em containers com Docker Compose, incluindo ambiente de produção.
 
-`Node.js` `MySQL` `Docker` `Tailwind CSS`
+`Node.js` `MySQL` `Docker`
 
 ### Monitoramento de Fundição · Indústria 4.0 *(em andamento)*
 
