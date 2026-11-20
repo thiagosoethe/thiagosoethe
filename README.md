@@ -64,9 +64,9 @@ Sistema de gestão de estoque com API REST, login de usuários, controle de prod
 
 ### Monitoramento de Fundição · Indústria 4.0 *(em andamento)*
 
-Protótipo de monitoramento industrial: sensores simulados publicam dados via MQTT (broker EMQX), o Node-RED processa as mensagens em um servidor na nuvem e um dashboard exibe os indicadores em tempo real.
+Protótipo de monitoramento industrial: sensores simulados publicam dados via MQTT (broker EMQX), as mensagens são processadas em um servidor na nuvem e um dashboard exibe os indicadores em tempo real.
 
-`MQTT` `EMQX` `Node-RED`
+`MQTT` `EMQX`
 
 ### [NexaShop · Consultas SQL](https://github.com/daivishow/tarefa-banco-daivison-thiago)
 
